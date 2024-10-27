@@ -38,5 +38,3 @@ A comprehensive **Movie Ratings Prediction Model** built with Python that levera
 - **Deployment**: Create a web application to showcase insights and allow users to interact with the prediction model.
 - **Enhanced Visualizations**: Develop interactive visualizations for better data exploration.
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
