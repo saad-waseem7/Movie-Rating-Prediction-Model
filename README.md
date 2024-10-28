@@ -1,6 +1,6 @@
-# 🎬 Movie Ratings Prediction Model
+# 🎬 Movie Rating Prediction Model
 
-A comprehensive **Movie Ratings Prediction Model** built with Python that leverages data analysis techniques to predict movie ratings based on historical data. This project involves data cleaning, exploratory data analysis (EDA), feature engineering, and preprocessing to build a solid foundation for predictive modeling.
+A comprehensive **Movie Rating Prediction Model** built with Python that leverages data analysis techniques to predict movie ratings based on historical data. This project involves data cleaning, exploratory data analysis (EDA), feature engineering, and preprocessing to build a solid foundation for predictive modeling.
 
 > **Note**: This project is still under development. Features may change, and new functionalities will be added over time.
 
